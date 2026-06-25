@@ -8,6 +8,7 @@ body {
 header {
     text-align: center;
     color: white;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.600);
 }
 
 section {
@@ -17,12 +18,24 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.500);
+    text-align: center;
+}
+
+#msg {
+    margin-bottom: 15px;
+}
+
+#imagem {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
 }
 
 footer {
     text-align: center;
     font-style: italic;
     color: white;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.600);
 }
 
 footer a{
