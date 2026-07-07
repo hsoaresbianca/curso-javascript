@@ -1,0 +1,35 @@
+body {
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 15pt;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.500);
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    color: black;
+}
