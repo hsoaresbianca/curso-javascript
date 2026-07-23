@@ -20,6 +20,8 @@ function adicionar() {
     selnum.appendChild(option);
     vetor.push(n);
   }
+  numero.value = ''
+  numero.focus()
 }
 
 // soma os números do array
